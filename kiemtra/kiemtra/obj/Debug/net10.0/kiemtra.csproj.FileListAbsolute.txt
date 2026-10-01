@@ -1,0 +1,15 @@
+D:\Lập trình.net\kiemtra\kiemtra\bin\Debug\net10.0\kiemtra.exe
+D:\Lập trình.net\kiemtra\kiemtra\bin\Debug\net10.0\kiemtra.deps.json
+D:\Lập trình.net\kiemtra\kiemtra\bin\Debug\net10.0\kiemtra.runtimeconfig.json
+D:\Lập trình.net\kiemtra\kiemtra\bin\Debug\net10.0\kiemtra.dll
+D:\Lập trình.net\kiemtra\kiemtra\bin\Debug\net10.0\kiemtra.pdb
+D:\Lập trình.net\kiemtra\kiemtra\obj\Debug\net10.0\kiemtra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình.net\kiemtra\kiemtra\obj\Debug\net10.0\kiemtra.AssemblyInfoInputs.cache
+D:\Lập trình.net\kiemtra\kiemtra\obj\Debug\net10.0\kiemtra.AssemblyInfo.cs
+D:\Lập trình.net\kiemtra\kiemtra\obj\Debug\net10.0\kiemtra.csproj.CoreCompileInputs.cache
+D:\Lập trình.net\kiemtra\kiemtra\obj\Debug\net10.0\kiemtra.dll
+D:\Lập trình.net\kiemtra\kiemtra\obj\Debug\net10.0\refint\kiemtra.dll
+D:\Lập trình.net\kiemtra\kiemtra\obj\Debug\net10.0\kiemtra.pdb
+D:\Lập trình.net\kiemtra\kiemtra\obj\Debug\net10.0\kiemtra.genruntimeconfig.cache
+D:\Lập trình.net\kiemtra\kiemtra\obj\Debug\net10.0\ref\kiemtra.dll
+D:\Lập trình.net\kiemtra\kiemtra\obj\Debug\net10.0\kiemtra.csproj.Up2Date
